@@ -21,8 +21,8 @@
 title: Pictures for Andrew's website
 description: >- # this means to ignore newlines until "baseurl:"
   Contains sailing pictures for dodging.rocks website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/images" # the subpath of your site, e.g. /blog
+url: "https://dodging.rocks" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: anlach
 github_username:  anlach
 
